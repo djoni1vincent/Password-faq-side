@@ -1,4 +1,4 @@
-  body {
+body {
     font-family: Arial, sans-serif;
     max-width: 600px;
     margin: 40px auto;
@@ -28,7 +28,6 @@
 
   .faq-item.active .faq-answer {
     max-height: 500px;
-    /* достаточно большое значение для длинных ответов */
     margin-top: 10px;
     line-height: 25px;
     opacity: 1;
